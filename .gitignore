@@ -81,7 +81,6 @@ HELP.md
 
 
 # Archivos de configuración con datos sensibles
-application.properties
 application-dev.properties
 application-prod.properties
 application-secrets.properties
